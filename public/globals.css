@@ -19,3 +19,8 @@ body {
   background: var(--background);
   overflow-x: hidden;
 }
+
+input,
+textarea {
+  outline: none;
+}
